@@ -1,0 +1,8 @@
+{
+  "name": "ai-support-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {},
+  "packageManager": "pnpm@9.0.0"
+}

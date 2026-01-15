@@ -1,0 +1,19 @@
+# Node
+node_modules
+.pnpm-store
+
+# Env
+.env
+
+# Build
+dist
+.vite
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Docker
+postgres_data
