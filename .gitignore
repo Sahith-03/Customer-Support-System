@@ -17,3 +17,5 @@ dist
 
 # Docker
 postgres_data
+
+.vscode
